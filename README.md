@@ -18,7 +18,7 @@ This project explores how lifestyle factors such as **diet, exercise, and sleep*
 - 📜 `notebooks/` → Jupyter Notebooks for analysis  
 - 📜 `data/` → Dataset files  
 - 📜 `models/` → Machine Learning models  
-- 📜 `reports/` → Power BI & Tableau dashboards  
+- 📜 `reports/` → Google Colab and Tableau dashboards  
 - 📜 `visuals/` → Charts & graphs  
 
 ---
